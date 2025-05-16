@@ -1,8 +1,20 @@
-# Strands Agents MCP Server
+<p align="center">
+  <h1>Strands Agents MCP Server</h1>
+</p>
 
+<div align="center">
+  <a href="https://github.com/strands-agents/mcp-server/graphs/commit-activity"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/strands-agents/mcp-server"/></a>
+  <a href="https://github.com/strands-agents/mcp-server/issues"><img alt="GitHub open issues" src="https://img.shields.io/github/issues/strands-agents/mcp-server"/></a>
+  <a href="https://github.com/strands-agents/mcp-server/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/strands-agents/mcp-server"/></a>
+  <a href="https://pypi.org/project/strands-agents-mcp-server/"><img alt="PyPI version" src="https://img.shields.io/pypi/v/strands-agents-mcp-server"/></a>
+  <a href="https://python.org"><img alt="Python versions" src="https://img.shields.io/pypi/pyversions/strands-agents-mcp-server"/></a>
+</div>
+
+<div>
 This MCP server provides documentation about Strands Agents,
 so you can use your favorite AI coding assistant to vibe-code AI agents
 with the Strands Agents SDK.
+</div>
 
 ## Installation
 
